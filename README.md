@@ -34,9 +34,3 @@ OPENAI_API_KEY = "your_api_key_here"
 - Which category has the most likes?
 - Are longer titles more likely to trend?
 
-## 📄 License
-MIT License
-
----
-
-✅ Developed by Anajni Kumar
